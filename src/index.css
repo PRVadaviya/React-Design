@@ -1,0 +1,9 @@
+
+@import "tailwindcss";
+:root {
+  --primary: #FF2F92;
+  --accent: #1B4FFF;
+}
+
+html, body, #root { height: 100%; }
+body { font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; background: #fff; }
